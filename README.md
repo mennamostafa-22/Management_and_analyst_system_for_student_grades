@@ -1,1 +1,0 @@
-# Management_and_analyst_system_for_student_grades
